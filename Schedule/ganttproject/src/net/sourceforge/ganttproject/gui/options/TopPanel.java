@@ -34,9 +34,9 @@ public class TopPanel {
   public static JComponent create(String title, String comment) {
 
     JPanel topPanel = new JPanel(new BorderLayout());
-    topPanel.setBackground(Color.ORANGE);
+    topPanel.setBackground(Color.PINK);
     topPanel.setForeground(Color.BLACK);
-    topPanel.setBorder(BorderFactory.createLineBorder(Color.ORANGE.darker()));
+    topPanel.setBorder(BorderFactory.createLineBorder(Color.PINK.darker()));
 
     String labelText = "<html>";
     if (title != null) {

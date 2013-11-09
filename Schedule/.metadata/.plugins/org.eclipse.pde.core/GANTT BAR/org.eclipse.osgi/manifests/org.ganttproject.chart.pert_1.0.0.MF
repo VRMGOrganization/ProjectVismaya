@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Generated-from: 1365194719000;type=2
+Bundle-ManifestVersion: 2
+Bundle-Name: Pert Plug-in
+Bundle-SymbolicName: org.ganttproject.chart.pert; singleton:=true
+Bundle-Version: 1.0.0
+Bundle-ClassPath: pert.jar,
+ resources/
+Bundle-Localization: plugin
+Export-Package: icons,
+ org.ganttproject.chart.pert
+Require-Bundle: biz.ganttproject.core,
+ net.sourceforge.ganttproject,
+ org.eclipse.core.runtime
+Eclipse-LazyStart: true

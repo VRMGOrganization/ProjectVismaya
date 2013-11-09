@@ -1,0 +1,53 @@
+calendar.holiday.visibility = visible
+calendar.holiday.background-color = #eeddee
+calendar.weekend.visibility = visible
+calendar.weekend.background-color = #87CEEB
+
+dependency.line.rubber.border = dashed 1px
+dependency.line.hard.border = solid 1px
+
+task.border-top = #A0522D
+task.border-bottom = #93703D
+task.visibility = visible
+task.end.border-top = #93703D
+task.end.border-bottom = #93703D
+task.end.border-right = #93703D
+task.end.visibility = visible
+task.milestone.background-color = #93703D
+task.notesMark.background-image = url(/img/notes.png)
+task.notesMark.visibility = visible
+task.projectTask.background-color = #93703D
+task.projectTask.padding = 0 0 3 0
+task.projectTask.visibility = visible
+task.projectTask.end.background-color = #93703D
+task.projectTask.start.background-color = #93703D
+task.start.border-top = #93703D
+task.start.border-bottom = #93703D
+task.start.border-left = #93703D
+task.start.visibility = visible
+task.startend.border = #93703D
+task.startend.visibility = visible
+task.supertask.background-color = #93703D
+task.supertask.padding = 0 0 6 0
+task.supertask.visibility = visible
+task.supertask.end.background-color = #93703D
+task.supertask.start.background-color = #93703D
+
+timeline.area.background-color = #87CEEB
+timeline.area.visibility = visible
+timeline.borderBottom.border = solid #cecece 1px
+timeline.bottom.major_label.margin-top = 10
+timeline.bottom.major_label.font = Dialog 11
+timeline.bottom.minor_label.color = #888888
+timeline.bottom.minor_label.font = Dialog 10
+timeline.bottom.minor_label.margin-top = 3
+timeline.lineSplitter.color = #777777
+timeline.top.font = Dialog 14
+timeline.top.margin-top = 7
+timeline.project_end.border = solid #0000ff 1px
+timeline.project_start.border = solid #0000ff 1px
+timeline.today.border = solid #ff0000 1px
+
+text.resource.load.padding = 2 0 0 2
+text.timeline.label.background-color = #FFFFFF
+text.timeline.label.padding = 2 2 2 2

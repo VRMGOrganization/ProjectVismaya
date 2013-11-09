@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="12" version="2.0">
+<workbenchAdvisor/>
+<window height="743" maximized="true" width="1024" x="0" y="0">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="148" y="34"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launch.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="160" y="34"/>
+<coolItem id="org.eclipse.debug.ui.main.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="92" y="34"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="128" y="34"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="236" y="34"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.browser.editor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.pde.ui.buildEditor" itemType="typePlaceholder" x="44" y="34"/>
+<coolItem id="org.eclipse.jdt.ui.PropertiesFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.pde.ui.manifestEditor" itemType="typePlaceholder" x="44" y="34"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ant.ui.internal.editor.AntEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditorNoSource" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1383626474020" focus="true" label="Workspace - Resource">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+<part id="29"/>
+<part id="30"/>
+<part id="31"/>
+<part id="32"/>
+<part id="33"/>
+<part id="34"/>
+<part id="35"/>
+<part id="36"/>
+<part id="37"/>
+<part id="38"/>
+<part id="39"/>
+<part id="40"/>
+<part id="41"/>
+<part id="42"/>
+<part id="43"/>
+<part id="44"/>
+<part id="45"/>
+<part id="46"/>
+<part id="47"/>
+<part id="48"/>
+<part id="49"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ActionDelegate.java" partName="ActionDelegate.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/action/ActionDelegate.java" title="ActionDelegate.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/action/ActionDelegate.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/action/ActionDelegate.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="859" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelpMenu.java" partName="HelpMenu.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/action/help/HelpMenu.java" title="HelpMenu.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/action/help/HelpMenu.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/action/help/HelpMenu.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2575" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GPAction.java" partName="GPAction.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/action/GPAction.java" title="GPAction.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/action/GPAction.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/action/GPAction.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="8" selectionOffset="1547" selectionTopPixel="3217"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Document.java" partName="Document.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/document/Document.java" title="Document.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/document/Document.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/document/Document.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4080" selectionTopPixel="1873"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GanttLanguage.java" partName="GanttLanguage.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/language/GanttLanguage.java" title="GanttLanguage.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/language/GanttLanguage.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/language/GanttLanguage.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="10" selectionOffset="10347" selectionTopPixel="4440"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AboutDialog2.java" partName="AboutDialog2.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/gui/about/AboutDialog2.java" title="AboutDialog2.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/gui/about/AboutDialog2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/gui/about/AboutDialog2.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3035" selectionTopPixel="339"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditorNoSource" name="MessageFormat.class" partName="MessageFormat.class" path="/tmp/MessageFormat.class6624617994314523306.class" title="MessageFormat.class" tooltip="java.text.MessageFormat" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=ganttproject/\/usr\/lib\/jvm\/java-7-openjdk-amd64\/jre\/lib\/rt.jar&lt;java.text(MessageFormat.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProjectUIFacadeImpl.java" partName="ProjectUIFacadeImpl.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/gui/ProjectUIFacadeImpl.java" title="ProjectUIFacadeImpl.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/gui/ProjectUIFacadeImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/gui/ProjectUIFacadeImpl.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="10683" selectionTopPixel="4638"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProjectMenu.java" partName="ProjectMenu.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/action/project/ProjectMenu.java" title="ProjectMenu.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/action/project/ProjectMenu.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/action/project/ProjectMenu.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1660" selectionTopPixel="144"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NewProjectAction.java" partName="NewProjectAction.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/action/project/NewProjectAction.java" title="NewProjectAction.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/action/project/NewProjectAction.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/action/project/NewProjectAction.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1351" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrjInfos.java" partName="PrjInfos.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/PrjInfos.java" title="PrjInfos.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/PrjInfos.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/PrjInfos.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="802" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ImporterFactory.java" partName="ImporterFactory.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/importer/ImporterFactory.java" title="ImporterFactory.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/importer/ImporterFactory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/importer/ImporterFactory.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1520" selectionTopPixel="241"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GanttXMLFileFilter.java" partName="GanttXMLFileFilter.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/filter/GanttXMLFileFilter.java" title="GanttXMLFileFilter.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/filter/GanttXMLFileFilter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/filter/GanttXMLFileFilter.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="804" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EditMenu.java" partName="EditMenu.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/action/edit/EditMenu.java" title="EditMenu.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/action/edit/EditMenu.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/action/edit/EditMenu.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1732" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DocumentManager.java" partName="DocumentManager.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/document/DocumentManager.java" title="DocumentManager.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/document/DocumentManager.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/document/DocumentManager.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="57" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GanttProject.java" partName="GanttProject.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/GanttProject.java" title="GanttProject.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/GanttProject.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/GanttProject.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="30229" selectionTopPixel="13477"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GanttSplash.java" partName="GanttSplash.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/GanttSplash.java" title="GanttSplash.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/GanttSplash.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/GanttSplash.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2026" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ActivityOnNodePertChart.java" partName="ActivityOnNodePertChart.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/org.ganttproject.chart.pert/src/org/ganttproject/chart/pert/ActivityOnNodePertChart.java" title="ActivityOnNodePertChart.java" tooltip="org.ganttproject.chart.pert/src/org/ganttproject/chart/pert/ActivityOnNodePertChart.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/org.ganttproject.chart.pert/src/org/ganttproject/chart/pert/ActivityOnNodePertChart.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="24929" selectionTopPixel="14183"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GanttChartTabContentPanel.java" partName="GanttChartTabContentPanel.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/GanttChartTabContentPanel.java" title="GanttChartTabContentPanel.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/GanttChartTabContentPanel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/GanttChartTabContentPanel.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2684" selectionTopPixel="254"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ToolbarBuilder.java" partName="ToolbarBuilder.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/chart/overview/ToolbarBuilder.java" title="ToolbarBuilder.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/chart/overview/ToolbarBuilder.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/chart/overview/ToolbarBuilder.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2090" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GanttGraphicArea.java" partName="GanttGraphicArea.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/GanttGraphicArea.java" title="GanttGraphicArea.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/GanttGraphicArea.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/GanttGraphicArea.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6878" selectionTopPixel="2628"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChartTabContentPanel.java" partName="ChartTabContentPanel.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/ChartTabContentPanel.java" title="ChartTabContentPanel.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/ChartTabContentPanel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/ChartTabContentPanel.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2001" selectionTopPixel="1057"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GPViewManager.java" partName="GPViewManager.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/gui/view/GPViewManager.java" title="GPViewManager.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/gui/view/GPViewManager.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/gui/view/GPViewManager.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1106" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GanttProjectBase.java" partName="GanttProjectBase.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/GanttProjectBase.java" title="GanttProjectBase.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/GanttProjectBase.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/GanttProjectBase.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="10841" selectionTopPixel="3796"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ViewManagerImpl.java" partName="ViewManagerImpl.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/gui/view/ViewManagerImpl.java" title="ViewManagerImpl.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/gui/view/ViewManagerImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/gui/view/ViewManagerImpl.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4462" selectionTopPixel="2"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GanttTabbedPane.java" partName="GanttTabbedPane.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/gui/GanttTabbedPane.java" title="GanttTabbedPane.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/gui/GanttTabbedPane.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/gui/GanttTabbedPane.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1197" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ContentPaneBuilder.java" partName="ContentPaneBuilder.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/gui/window/ContentPaneBuilder.java" title="ContentPaneBuilder.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/gui/window/ContentPaneBuilder.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/gui/window/ContentPaneBuilder.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2370" selectionTopPixel="25"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GPView.java" partName="GPView.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/gui/view/GPView.java" title="GPView.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/gui/view/GPView.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/gui/view/GPView.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="9" selectionOffset="1000" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Chart.java" partName="Chart.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/chart/Chart.java" title="Chart.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/chart/Chart.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/chart/Chart.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="5" selectionOffset="1190" selectionTopPixel="85"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ThemeImpl.java" partName="ThemeImpl.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/org.ganttproject.impex.htmlpdf/src/org/ganttproject/impex/htmlpdf/itext/ThemeImpl.java" title="ThemeImpl.java" tooltip="org.ganttproject.impex.htmlpdf/src/org/ganttproject/impex/htmlpdf/itext/ThemeImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/org.ganttproject.impex.htmlpdf/src/org/ganttproject/impex/htmlpdf/itext/ThemeImpl.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="16694" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UIConfiguration.java" partName="UIConfiguration.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/gui/UIConfiguration.java" title="UIConfiguration.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/gui/UIConfiguration.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/gui/UIConfiguration.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1462" selectionTopPixel="635"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.PropertiesFileEditor" name="chart.properties" partName="chart.properties" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/data/resources/chart.properties" title="chart.properties" tooltip="ganttproject/data/resources/chart.properties" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/data/resources/chart.properties"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="550" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GPOption.java" partName="GPOption.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/biz.ganttproject.core/src/biz/ganttproject/core/option/GPOption.java" title="GPOption.java" tooltip="biz.ganttproject.core/src/biz/ganttproject/core/option/GPOption.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/biz.ganttproject.core/src/biz/ganttproject/core/option/GPOption.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="184" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Fonts.java" partName="Fonts.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/font/Fonts.java" title="Fonts.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/font/Fonts.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/font/Fonts.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1571" selectionTopPixel="122"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChartUIConfiguration.java" partName="ChartUIConfiguration.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/chart/ChartUIConfiguration.java" title="ChartUIConfiguration.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/chart/ChartUIConfiguration.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/chart/ChartUIConfiguration.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2600" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FontChooser.java" partName="FontChooser.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/biz.ganttproject.core/src/biz/ganttproject/core/chart/canvas/FontChooser.java" title="FontChooser.java" tooltip="biz.ganttproject.core/src/biz/ganttproject/core/chart/canvas/FontChooser.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/biz.ganttproject.core/src/biz/ganttproject/core/chart/canvas/FontChooser.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1087" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GanttOptions.java" partName="GanttOptions.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/GanttOptions.java" title="GanttOptions.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/GanttOptions.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/GanttOptions.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="15541" selectionTopPixel="6851"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TopPanel.java" partName="TopPanel.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/gui/options/TopPanel.java" title="TopPanel.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/gui/options/TopPanel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/gui/options/TopPanel.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="5" selectionOffset="1731" selectionTopPixel="54"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ViewLogDialog.java" partName="ViewLogDialog.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/gui/ViewLogDialog.java" title="ViewLogDialog.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/gui/ViewLogDialog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/gui/ViewLogDialog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1315" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GPLogger.java" partName="GPLogger.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/GPLogger.java" title="GPLogger.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/GPLogger.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/GPLogger.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3393" selectionTopPixel="1017"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileChooserPage.java" partName="FileChooserPage.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/export/FileChooserPage.java" title="FileChooserPage.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/export/FileChooserPage.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/export/FileChooserPage.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5411" selectionTopPixel="1501"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Exporter.java" partName="Exporter.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/export/Exporter.java" title="Exporter.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/export/Exporter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/export/Exporter.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="20" selectionOffset="1395" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TaskLabelSceneBuilder.java" partName="TaskLabelSceneBuilder.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/biz.ganttproject.core/src/biz/ganttproject/core/chart/scene/gantt/TaskLabelSceneBuilder.java" title="TaskLabelSceneBuilder.java" tooltip="biz.ganttproject.core/src/biz/ganttproject/core/chart/scene/gantt/TaskLabelSceneBuilder.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/biz.ganttproject.core/src/biz/ganttproject/core/chart/scene/gantt/TaskLabelSceneBuilder.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2312" selectionTopPixel="527"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProjectSettingsPanel.java" partName="ProjectSettingsPanel.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/gui/options/ProjectSettingsPanel.java" title="ProjectSettingsPanel.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/gui/options/ProjectSettingsPanel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/gui/options/ProjectSettingsPanel.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5117" selectionTopPixel="2034"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OpenProjectAction.java" partName="OpenProjectAction.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/action/project/OpenProjectAction.java" title="OpenProjectAction.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/action/project/OpenProjectAction.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/action/project/OpenProjectAction.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="57" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ResourceChartTabContentPanel.java" partName="ResourceChartTabContentPanel.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/ResourceChartTabContentPanel.java" title="ResourceChartTabContentPanel.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/ResourceChartTabContentPanel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/ResourceChartTabContentPanel.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1191" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DocumentCreator.java" partName="DocumentCreator.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/document/DocumentCreator.java" title="DocumentCreator.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/document/DocumentCreator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/document/DocumentCreator.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5274" selectionTopPixel="1904"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GanttProjectImpl.java" partName="GanttProjectImpl.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/GanttProjectImpl.java" title="GanttProjectImpl.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/GanttProjectImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/GanttProjectImpl.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3745" selectionTopPixel="561"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ResourceNode.java" partName="ResourceNode.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/resource/ResourceNode.java" title="ResourceNode.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/resource/ResourceNode.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/resource/ResourceNode.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2546" selectionTopPixel="901"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ResourceLoadGraphicArea.java" partName="ResourceLoadGraphicArea.java" path="/home/vrmgm104/Desktop/gantt/ganttproject- GANTT BAR - Final Touch/ganttproject/src/net/sourceforge/ganttproject/ResourceLoadGraphicArea.java" title="ResourceLoadGraphicArea.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/ResourceLoadGraphicArea.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ganttproject/src/net/sourceforge/ganttproject/ResourceLoadGraphicArea.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3946" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.completionField" categoryGroup="none" markerContentGenerator="org.eclipse.ui.ide.tasksGenerator" partName="Tasks">
+<columnWidths org.eclipse.ui.ide.completionField="40" org.eclipse.ui.ide.descriptionField="300" org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="262" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.priorityField="30" org.eclipse.ui.ide.resourceField="90"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.completionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.priorityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.descriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.ui.resourcePerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.team.cvs.ui.cvsPerspective"/>
+<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.RunToLine"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="16384" id="bottomLeft" orientation="512" selectedTabId="org.eclipse.ui.views.ContentOutline" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="1024" id="bottomRight" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.TaskList" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="16384" id="topLeft" orientation="512" selectedTabId="org.eclipse.ui.navigator.ProjectExplorer" style="0">
+<fastViews>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.29594097" ratioLeft="401" ratioRight="954" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.65841585" ratioLeft="399" ratioRight="207" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="org.eclipse.team.ui.GenericHistoryView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@384e062f" ratio="0.9322314" ratioLeft="564" ratioRight="41" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="bottomLeft" ratio="0.9324547" ratioLeft="566" ratioRight="41" relationship="4" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ganttproject/src/net/sourceforge/ganttproject/action/project/OpenProjectAction.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ganttproject/src/net/sourceforge/ganttproject/ResourceLoadGraphicArea.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ganttproject/src/net/sourceforge/ganttproject/ResourceChartTabContentPanel.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ganttproject/src/net/sourceforge/ganttproject/action/help/HelpMenu.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ganttproject/src/net/sourceforge/ganttproject/document/DocumentCreator.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ganttproject/src/net/sourceforge/ganttproject/GanttProjectImpl.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ganttproject/src/net/sourceforge/ganttproject/resource/ResourceNode.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditorNoSource" org.eclipse.jdt.ui.ClassFileIdentifier="=ganttproject/\/usr\/lib\/jvm\/java-7-openjdk-amd64\/jre\/lib\/rt.jar&lt;java.io(File.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ganttproject/src/net/sourceforge/ganttproject/language/GanttLanguage.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" path="/ganttproject/data/resources/language/i18n.properties"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ganttproject/src/net/sourceforge/ganttproject/GanttGraphicArea.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/ganttproject/src/net/sourceforge/ganttproject/chart/Chart.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditorNoSource" org.eclipse.jdt.ui.ClassFileIdentifier="=ganttproject/\/usr\/lib\/jvm\/java-7-openjdk-amd64\/jre\/lib\/rt.jar&lt;java.awt(Component.class"/>
+</editors>
+<item historyLabel="HelpMenu.java" index="3">
+<position info="not_deleted" x="5079" y="18"/>
+</item>
+<item historyLabel="DocumentCreator.java" index="4">
+<position info="not_deleted" x="5274" y="0"/>
+</item>
+<item historyLabel="GanttProjectImpl.java" index="5">
+<position info="not_deleted" x="4" y="0"/>
+</item>
+<item historyLabel="GanttProjectImpl.java" index="5">
+<position/>
+</item>
+<item historyLabel="GanttProjectImpl.java" index="5">
+<position info="not_deleted" x="3745" y="0"/>
+</item>
+<item historyLabel="ResourceLoadGraphicArea.java" index="1">
+<position info="not_deleted" x="7797" y="0"/>
+</item>
+<item historyLabel="ResourceLoadGraphicArea.java" index="1">
+<position info="not_deleted" x="3780" y="0"/>
+</item>
+<item historyLabel="OpenProjectAction.java" index="0">
+<position info="not_deleted" x="57" y="0"/>
+</item>
+<item historyLabel="ResourceChartTabContentPanel.java" index="2">
+<position info="not_deleted" x="1191" y="0"/>
+</item>
+<item historyLabel="ResourceNode.java" index="6">
+<position info="not_deleted" x="2890" y="0"/>
+</item>
+<item historyLabel="ResourceNode.java" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ResourceChartTabContentPanel.java" index="2">
+<position info="not_deleted" x="1191" y="0"/>
+</item>
+<item historyLabel="ResourceNode.java" index="6">
+<position info="not_deleted" x="2279" y="0"/>
+</item>
+<item historyLabel="ResourceLoadGraphicArea.java" index="1">
+<position info="not_deleted" x="3776" y="7"/>
+</item>
+<item historyLabel="ResourceNode.java" index="6">
+<position info="not_deleted" x="2560" y="0"/>
+</item>
+<item historyLabel="ResourceLoadGraphicArea.java" index="1">
+<position info="not_deleted" x="3854" y="0"/>
+</item>
+<item historyLabel="ResourceNode.java" index="6">
+<position info="not_deleted" x="2546" y="0"/>
+</item>
+<item historyLabel="ResourceLoadGraphicArea.java" index="1">
+<position info="not_deleted" x="7904" y="0"/>
+</item>
+<item historyLabel="HelpMenu.java" index="3">
+<position info="not_deleted" x="5467" y="0"/>
+</item>
+<item historyLabel="File.class" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="HelpMenu.java" index="3">
+<position info="not_deleted" x="5467" y="0"/>
+</item>
+<item historyLabel="GanttLanguage.java" index="8">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="GanttLanguage.java" index="8">
+<position info="not_deleted" x="10479" y="0"/>
+</item>
+<item historyLabel="GanttLanguage.java" index="8">
+<position info="not_deleted" x="10347" y="10"/>
+</item>
+<item historyLabel="HelpMenu.java" index="3">
+<position info="not_deleted" x="5312" y="0"/>
+</item>
+<item historyLabel="GanttLanguage.java" index="8">
+<position info="not_deleted" x="10347" y="10"/>
+</item>
+<item historyLabel="HelpMenu.java" index="3">
+<position info="not_deleted" x="2575" y="0"/>
+</item>
+<item historyLabel="ResourceChartTabContentPanel.java" index="2">
+<position info="not_deleted" x="1191" y="0"/>
+</item>
+<item historyLabel="ResourceLoadGraphicArea.java" index="1">
+<position info="not_deleted" x="4199" y="0"/>
+</item>
+<item historyLabel="i18n.properties" index="9"/>
+<item historyLabel="ResourceLoadGraphicArea.java" index="1">
+<position info="not_deleted" x="4040" y="0"/>
+</item>
+<item historyLabel="ResourceChartTabContentPanel.java" index="2">
+<position info="not_deleted" x="1191" y="0"/>
+</item>
+<item historyLabel="ResourceNode.java" index="6">
+<position info="not_deleted" x="2546" y="0"/>
+</item>
+<item historyLabel="ResourceLoadGraphicArea.java" index="1">
+<position info="not_deleted" x="4040" y="0"/>
+</item>
+<item historyLabel="ResourceLoadGraphicArea.java" index="1">
+<position info="not_deleted" x="3324" y="0"/>
+</item>
+<item historyLabel="GanttGraphicArea.java" index="10">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="GanttGraphicArea.java" index="10">
+<position info="not_deleted" x="11152" y="0"/>
+</item>
+<item historyLabel="GanttGraphicArea.java" index="10">
+<position info="not_deleted" x="7392" y="0"/>
+</item>
+<item historyLabel="Chart.java" index="11">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="Chart.java" index="11">
+<position info="not_deleted" x="1190" y="5"/>
+</item>
+<item historyLabel="Chart.java" index="11">
+<position info="not_deleted" x="1606" y="7"/>
+</item>
+<item historyLabel="GanttGraphicArea.java" index="10">
+<position info="not_deleted" x="7392" y="0"/>
+</item>
+<item historyLabel="Chart.java" index="11">
+<position info="not_deleted" x="1190" y="5"/>
+</item>
+<item historyLabel="GanttGraphicArea.java" index="10">
+<position info="not_deleted" x="7392" y="0"/>
+</item>
+<item historyLabel="Component.class" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="GanttGraphicArea.java" index="10">
+<position info="not_deleted" x="6809" y="0"/>
+</item>
+<item historyLabel="Chart.java" index="11">
+<position info="not_deleted" x="1190" y="5"/>
+</item>
+<item historyLabel="GanttGraphicArea.java" index="10">
+<position info="not_deleted" x="2618" y="0"/>
+</item>
+<item historyLabel="ResourceLoadGraphicArea.java" index="1">
+<position info="not_deleted" x="3946" y="0"/>
+</item>
+<item active="true" historyLabel="GanttGraphicArea.java" index="10">
+<position info="not_deleted" x="2618" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="topLeft"/>
+<trimItem IMemento.internal.id="bottomLeft"/>
+</trimArea>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="bottomRight"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditorNoSource" name="Component.class" tooltip="java.awt.Component">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=ganttproject/\/usr\/lib\/jvm\/java-7-openjdk-amd64\/jre\/lib\/rt.jar&lt;java.awt(Component.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.PropertiesFileEditor" name="i18n.properties" tooltip="ganttproject/data/resources/language/i18n.properties">
+<persistable path="/ganttproject/data/resources/language/i18n.properties"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditorNoSource" name="File.class" tooltip="java.io.File">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=ganttproject/\/usr\/lib\/jvm\/java-7-openjdk-amd64\/jre\/lib\/rt.jar&lt;java.io(File.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ResourceLoadGraphicArea.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/ResourceLoadGraphicArea.java">
+<persistable path="/ganttproject/src/net/sourceforge/ganttproject/ResourceLoadGraphicArea.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ResourceNode.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/resource/ResourceNode.java">
+<persistable path="/ganttproject/src/net/sourceforge/ganttproject/resource/ResourceNode.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GanttProjectImpl.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/GanttProjectImpl.java">
+<persistable path="/ganttproject/src/net/sourceforge/ganttproject/GanttProjectImpl.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DocumentCreator.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/document/DocumentCreator.java">
+<persistable path="/ganttproject/src/net/sourceforge/ganttproject/document/DocumentCreator.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ResourceChartTabContentPanel.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/ResourceChartTabContentPanel.java">
+<persistable path="/ganttproject/src/net/sourceforge/ganttproject/ResourceChartTabContentPanel.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OpenProjectAction.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/action/project/OpenProjectAction.java">
+<persistable path="/ganttproject/src/net/sourceforge/ganttproject/action/project/OpenProjectAction.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProjectSettingsPanel.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/gui/options/ProjectSettingsPanel.java">
+<persistable path="/ganttproject/src/net/sourceforge/ganttproject/gui/options/ProjectSettingsPanel.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TaskLabelSceneBuilder.java" tooltip="biz.ganttproject.core/src/biz/ganttproject/core/chart/scene/gantt/TaskLabelSceneBuilder.java">
+<persistable path="/biz.ganttproject.core/src/biz/ganttproject/core/chart/scene/gantt/TaskLabelSceneBuilder.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Exporter.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/export/Exporter.java">
+<persistable path="/ganttproject/src/net/sourceforge/ganttproject/export/Exporter.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileChooserPage.java" tooltip="ganttproject/src/net/sourceforge/ganttproject/export/FileChooserPage.java">
+<persistable path="/ganttproject/src/net/sourceforge/ganttproject/export/FileChooserPage.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditorNoSource" name="StringBuilder.class" tooltip="java.lang.StringBuilder">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=ganttproject/\/usr\/lib\/jvm\/java-7-openjdk-amd64\/jre\/lib\/rt.jar&lt;java.lang(StringBuilder.class"/>
+</file>
+</mruList>
+</workbench>

@@ -142,7 +142,7 @@ public class DocumentCreator implements DocumentManager {
   }
 
   private File createAutosaveFile() throws IOException {
-    return File.createTempFile("_ganttproject_autosave", ".gan");
+    return File.createTempFile("_schedule_autosave", ".gan");
   }
 
   @Override
@@ -152,7 +152,7 @@ public class DocumentCreator implements DocumentManager {
     File files[] = directory.listFiles(new FilenameFilter() {
       @Override
       public boolean accept(File f, String arg1) {
-        return arg1.startsWith("_ganttproject_autosave");
+        return arg1.startsWith("_schedule_autosave");
       }
     });
     Arrays.sort(files, new Comparator<File>() {

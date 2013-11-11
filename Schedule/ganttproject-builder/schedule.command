@@ -4,7 +4,7 @@ SCRIPT_PATH=$0
 GP_HOME=`dirname "$SCRIPT_PATH"`
 
 
-GP_LOG_DIR="$HOME/.ganttproject.d"
+GP_LOG_DIR="$HOME/.schedule.d"
 # Check if log dir is present (or create it)
 if [ ! -d $GP_LOG_DIR ]; then
   if [ -e  $GP_LOG_DIR ]; then
@@ -18,7 +18,7 @@ if [ ! -d $GP_LOG_DIR ]; then
 fi
 
 # Create unique name for log file
-LOG_FILE="$GP_LOG_DIR/.ganttproject-"$(date +%Y%m%d%H%M%S)".log"
+LOG_FILE="$GP_LOG_DIR/.schedule-"$(date +%Y%m%d%H%M%S)".log"
 if [ -e "$LOG_FILE" ] && [ ! -w "$LOG_FILE" ]; then
   echo "Log file $LOG_FILE is not writable" >2
   exit 1
